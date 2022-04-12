@@ -20,7 +20,7 @@ Silahkan tentukan satu persatu apakah bilangan di array tersebut ganjil atau gen
 ![image](https://user-images.githubusercontent.com/87308406/162875572-c5688383-0fe1-4700-8ce0-43eb816fb4ae.png)
 
 # Soal 5
-Silahkan tentukan nilai maksimum dari bilangan tersebut.
+Silahkan tentukan nilai maksimum dari bilangan yang terdapat pada array yang telah diinputkan
 ![image](https://user-images.githubusercontent.com/87308406/162875668-c05486ef-c72c-4756-ade1-c887e2fde89e.png)
 
 # Soal 6

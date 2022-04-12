@@ -11,7 +11,7 @@ public class Soal2 {
         
         System.out.println("============== Menentukan Bilangan Ganjil/Genap ==============\n");
         
-        System.out.print("Silahkan Inputkan Bolangan : ");
+        System.out.print("Silahkan Inputkan Bilangan : ");
         num = scan.nextInt();
         
         if(num % 2 == 0){

@@ -13,7 +13,7 @@ public class Soal1 {
         
         System.out.println("Silahkan Inputkan Bilangan\n");
         
-        System.out.print("10Bilangan 1 : ");
+        System.out.print("Bilangan 1 : ");
         num1 = scan.nextInt();
         
         System.out.print("\nBilangan 2 : ");

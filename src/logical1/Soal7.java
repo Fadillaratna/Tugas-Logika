@@ -9,7 +9,7 @@ public class Soal7 {
         Scanner scan = new Scanner(System.in);
         int index, arr[], i, nilai, l, result = 0;
 
-        String desc = "TODAK ADA";
+        String desc = "TIDAK ADA";
 
         System.out.println("========== Menentukan Bilangan Maksimum Chapter 2 ==========\n");
 

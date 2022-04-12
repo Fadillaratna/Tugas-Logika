@@ -2,7 +2,6 @@
 
 # Soal 1
 Mana Yang Lebih Besar?
-Akan diberikan dua angka, silahkan tentukan angka mana yang lebih besar
 ![image](https://user-images.githubusercontent.com/87308406/162875347-4ff90ae8-29c9-42b9-9d0e-e85217a61d81.png)
 
 # Soal 2
@@ -19,20 +18,15 @@ Akan diberikan sebuah angka. sebut saja angka ini N. Hitunglah total penjumlahan
 ![image](https://user-images.githubusercontent.com/87308406/162875494-d4c53103-44cd-418e-91c4-ea4d624e883e.png)
 
 # Soal 4
-Ganjil Atau Genap Chapter II
-Akan diberikan sebuah angka N. Dan akan diberikan N angka.
 Silahkan tentukan satu persatu apakah bilangan di array tersebut ganjil atau genap
 ![image](https://user-images.githubusercontent.com/87308406/162875572-c5688383-0fe1-4700-8ce0-43eb816fb4ae.png)
 
 # Soal 5
-Akan diberikan sebuah angka N. Dan akan diberikan N angka.
 Silahkan tentukan nilai maksimum dari bilangan tersebut.
 ![image](https://user-images.githubusercontent.com/87308406/162875668-c05486ef-c72c-4756-ade1-c887e2fde89e.png)
 
 # Soal 6
 Mungkinkah?
-Akan diberikan 2 angka yaitu N dan K. Dan diberikan array dengan panjang N. 
-Apakah bisa mendapatkan nilai K dengan menjumlahkan 2 angka pada array?
 ![image](https://user-images.githubusercontent.com/87308406/162875829-96634f84-79c0-4d23-8c59-bf1235644365.png)
 
 ![image](https://user-images.githubusercontent.com/87308406/162876062-7467d162-e530-4563-b0ff-e503aa4082f2.png)
@@ -40,7 +34,6 @@ Apakah bisa mendapatkan nilai K dengan menjumlahkan 2 angka pada array?
 
 # Soal 7
 Apakah semua berbeda?
-Tentukan apakah ada nilai yang sama di dalam array?
 ![image](https://user-images.githubusercontent.com/87308406/162875950-29b4be66-a2d9-40ac-b58d-aef55fd0dd4e.png)
 
 ![image](https://user-images.githubusercontent.com/87308406/162876023-b0b63b87-952e-4df4-af3d-17a38c672fcb.png)

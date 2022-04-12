@@ -1,7 +1,7 @@
 # Tugas-Logika
 
 # Soal 1
-Mana Yang Lebih Besar?
+Mana Yang Lebih Besar? Silahkan tentukan angka yang paling besar
 ![image](https://user-images.githubusercontent.com/87308406/162875347-4ff90ae8-29c9-42b9-9d0e-e85217a61d81.png)
 
 # Soal 2
@@ -12,9 +12,7 @@ Akan diberikan sebuah angka, silahkan tentukan apakah angka tersebut ganjil atau
 ![image](https://user-images.githubusercontent.com/87308406/162875432-57c180b8-ed56-4fa8-9e1c-69a2171b0aee.png)
 
 # Soal 3
-Berapakah Jumlahnya ?
-Akan diberikan sebuah angka. sebut saja angka ini N. Hitunglah total penjumlahan dari angka 1 – N.
-
+Berapakah Jumlahnya ? Akan diberikan sebuah angka. sebut saja angka ini N. Hitunglah total penjumlahan dari angka 1 – N.
 ![image](https://user-images.githubusercontent.com/87308406/162875494-d4c53103-44cd-418e-91c4-ea4d624e883e.png)
 
 # Soal 4

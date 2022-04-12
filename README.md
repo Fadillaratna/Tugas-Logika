@@ -24,20 +24,20 @@ Silahkan tentukan nilai maksimum dari bilangan yang terdapat pada array yang tel
 ![image](https://user-images.githubusercontent.com/87308406/162875668-c05486ef-c72c-4756-ade1-c887e2fde89e.png)
 
 # Soal 6
-Mungkinkah?
+Mungkinkah? Apakah bisa mendapatkan nilai k dengan menjumlahkan 2 angka pada array?
 ![image](https://user-images.githubusercontent.com/87308406/162875829-96634f84-79c0-4d23-8c59-bf1235644365.png)
 
 ![image](https://user-images.githubusercontent.com/87308406/162876062-7467d162-e530-4563-b0ff-e503aa4082f2.png)
 
 
 # Soal 7
-Apakah semua berbeda?
+Apakah semua berbeda? Apakah ada nilai yang sama di dalam array yang diberikan?
 ![image](https://user-images.githubusercontent.com/87308406/162875950-29b4be66-a2d9-40ac-b58d-aef55fd0dd4e.png)
 
 ![image](https://user-images.githubusercontent.com/87308406/162876023-b0b63b87-952e-4df4-af3d-17a38c672fcb.png)
 
 # Soal 8
-Tentukan buah apa yang paling laris?
+Tentukan buah apa yang paling laris dari data yang telah dimasukkan
 ![image](https://user-images.githubusercontent.com/87308406/162876165-f75e72bb-ab7f-406e-a31e-acd72a11764f.png)
 
 

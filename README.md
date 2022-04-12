@@ -38,6 +38,6 @@ Apakah semua berbeda? Apakah ada nilai yang sama di dalam array yang diberikan?
 
 # Soal 8
 Tentukan buah apa yang paling laris dari data yang telah dimasukkan
-![image](https://user-images.githubusercontent.com/87308406/162876165-f75e72bb-ab7f-406e-a31e-acd72a11764f.png)
+![image](https://user-images.githubusercontent.com/87308406/162876616-79aedb56-4acc-4ade-874d-52a56f591ee1.png)
 
 

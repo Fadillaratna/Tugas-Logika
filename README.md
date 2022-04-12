@@ -15,6 +15,7 @@ Akan diberikan sebuah angka, silahkan tentukan apakah angka tersebut ganjil atau
 # Soal 3
 Berapakah Jumlahnya ?
 Akan diberikan sebuah angka. sebut saja angka ini N. Hitunglah total penjumlahan dari angka 1 – N.
+
 ![image](https://user-images.githubusercontent.com/87308406/162875494-d4c53103-44cd-418e-91c4-ea4d624e883e.png)
 
 # Soal 4
